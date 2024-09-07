@@ -1,4 +1,5 @@
 # Spotify Video
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/62192052-68b2-4566-a615-23662f6c4a34">
 
 This is a Next.js project, it fetches the current playing song from Spotify, finding the Youtube video that would be the best match for the song and then shows it. Refetching the song every 30 seconds.
 
